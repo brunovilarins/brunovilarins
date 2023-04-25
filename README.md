@@ -1,4 +1,8 @@
-### Hi there 👋
+Durante minha carreira, adquiri habilidades em várias tecnologias e ferramentas de desenvolvimento, incluindo Python, Node.js e React. Além disso, possuo conhecimento em infraestrutura de TI, com experiência em Docker, Kubernetes e IaC, assim como em bancos de dados SQL e NoSQL, tendo trabalhado com diversas tecnologias.
+
+Acredito que a arquitetura de códigos é uma parte fundamental do processo de desenvolvimento de software, permitindo que o código seja mais fácil de entender, manter e evoluir ao longo do tempo. Para atingir essa meta, aplico padrões de projeto e práticas de desenvolvimento de software limpo para criar arquiteturas claras e escaláveis em meus projetos.
+
+Além disso, tenho interesse e experiência em arquiteturas baseadas em eventos. Ao adotar uma arquitetura baseada em eventos, é possível tornar o sistema mais resiliente, escalável e flexível, permitindo que diferentes partes do sistema trabalhem de maneira independente. Essa abordagem também possibilita a criação de sistemas mais reativos e mais próximos das necessidades do usuário, bem como uma melhor integração entre diferentes sistemas e serviços. Com todas essas habilidades, estou preparado para criar soluções completas e escaláveis para os mais diversos problemas e necessidades de TI. 👋
 
 <!--
 **brunovilarins/brunovilarins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
